@@ -14,8 +14,3 @@ A Linux automation project that organizes files based on file type using Bash sc
 - Linux
 - Cron Jobs
 - find, mv, mkdir commands
-
-## How to Run
-```bash
-chmod +x auto_organize.sh
-./auto_organize.sh
